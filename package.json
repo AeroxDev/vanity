@@ -1,0 +1,26 @@
+{
+  "name": "vanity",
+  "version": "1.0.0",
+  "description": "## Prerequisite - NodeJS ! - 9x bot discord added on your discord vanity with permission ! - 1x bot for manage sniper - List with some proxies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AeroxDev/vanity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AeroxDev/vanity/issues"
+  },
+  "homepage": "https://github.com/AeroxDev/vanity#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "https-proxy-agent": "^5.0.0",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^3.2.3"
+  }
+}
